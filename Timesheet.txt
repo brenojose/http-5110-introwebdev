@@ -1,0 +1,48 @@
+Timesheet
+
+14/01
+
+2:17PM - 2:58PM Study of HTTP-5126 (Database Design & Development)
+5:00PM - 5:15PM review of the material HTTP-5126 (Database Design & Development)
+5:18PM - 9:30PM Assignment of IXD-5106 (Intro Design for Interaction)
+
+
+15/01
+
+7:18PM - 7:55PM Learning new git CMD command lines
+8:44PM - 9:30PM Learning basics of python (making a text RPG game to practice)
+
+16/01
+
+12:41 AM - 1:54PM Back-end review for upcoming class
+6:20PM - 9:58PM Assignment back-end of today
+9:58PM - 10:20PM review of tomorrow classes
+
+
+17/01
+10:05PM - 10:51PM - Review of Web design's assignment, attempt 2. first one was a mess.
+
+19/01
+10:01AM - 10:34AM - Organize my figjam
+
+20/01
+8:48PM - 11:53PM - Sean's assignment and JS study
+
+21/01
+9:30PM - 10:04PM - Finished sean's assign
+
+22/01
+8:06PM - 9:24PM - Review 
+
+23/01
+6:43PM - 8:52PM - Review back-end
+
+24/01
+8:01AM - 8:36AM - Review database
+
+25/01
+
+26/01
+
+
+
